@@ -1,6 +1,6 @@
 # Présentation
 
-__Migo Thermostat For Jeedom__ Plugin permettant de controller les thermostats connectés suivants:
+**Migo Thermostat For Jeedom** Plugin permettant de controller les thermostats connectés suivants:
 
 - MiGo Saunier-Duval.
 - eRelax/Vsmart Vaillant

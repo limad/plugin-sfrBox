@@ -1,11 +1,11 @@
 # WIDGET
 
-## Voici le __widget standard__ pour un thermostat :
+## Voici le **widget standard** pour un thermostat :
 
 ![widget1](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot1.PNG)
 ![widget2](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot2.PNG)
 ![widget3](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot3.PNG)
-__Widget mobile__ :
+**Widget mobile** :
 migoScreen8
 migoScreen9
 

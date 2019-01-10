@@ -11,7 +11,7 @@ Mot de passe : mot de passe de votre compte Migo
 
 Type du Thermostat : Choisir le type tu thermostat installé
 
-__Cliquer sur Synchroniser __: Celà permet de synchroniser Jeedom avec votre compte MiGo pour découvrir automatiquement vos équipements . 
+**Cliquer sur Synchroniser **: Celà permet de synchroniser Jeedom avec votre compte MiGo pour découvrir automatiquement vos équipements . 
 
 !! A faire après avoir sauvegardé les paramètres précedent.
 
