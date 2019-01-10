@@ -1,4 +1,6 @@
 # FAQ
 
-## Comment ajouter les dépôts d'un utilisateur GitHub ?
+## Quelle est la fréquence de rafraichissement ?
 
+
+	Le systeme recupère les informations toutes les __5 min__.

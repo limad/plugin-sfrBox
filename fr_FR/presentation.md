@@ -1,19 +1,37 @@
 # Présentation
 
-__Alternative Market For Jeedom__ vous permettra d'installer des plugins directement depuis les sources des développeurs.
+__Migo Thermostat For Jeedom__ Plugin permettant de controller les thermostats connectés suivants:
 
-Ceci vous donnera la possibilité de: 
-  - Accéder à des versions en développement de plugins.
-  - Installer des plugins de développeurs gardant leur indépendance.
-  - Installer des plugins ne respectant pas la charte du Market Jeedom.
+- MiGo Saunier-Duval.
+- eRelax/Vsmart Vaillant
 
-## Aperçu
+
+Ce plugin vous donnera la possibilité de *(1):
+
+-Connaitre la majorité des infos( consigne, températures...)
+-Choisir le mode de fonctionnement du thermostat (Programme, Consigne manuel, Absent)
+- De connaitre et changer le mode de la chaudière( Hiver, Eté, Off)
+- De connaitre et changer le planning en cours 
+- De définir le jour et heure de fin des modes (manuel/absent)
+- De gérer la température ECS et le mode ECS-Boost*(2)
+-...etc
+
+
+*
+(1): plugin testé en configuration "thermostat+chaudière compatible"
+(2): selon votre équipement certaines fonctions ne seront pas disponibles.
+
+!! Attention, l'acquisition du plugin est à vos risques et périls;  je ne peux garantir son fonctionnement à terme.
+Pour plus de détails, veuillez consulter le forum.
+
+
+## Aperçu du plugin
 
 ### Page du plugin
-![screenshot1](https://github.com/NextDom/plugin-AlternativeMarketForJeedom/raw/master/docs/images/screenshot1.png)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot1.PNG)
 
 ### Installation d'un plugin
-![screenshot1](https://github.com/NextDom/plugin-AlternativeMarketForJeedom/raw/master/docs/images/screenshot2.png)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot12.PNG)
 
 ### Configuration
-![screenshot1](https://github.com/NextDom/plugin-AlternativeMarketForJeedom/raw/master/docs/images/screenshot3.png)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot11.PNG)
