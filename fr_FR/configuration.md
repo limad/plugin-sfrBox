@@ -31,7 +31,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 
 
-## Configuration les Commandes infos et actions
+## Configuration des Commandes infos et actions
 
 Les Commandes disponibles pour votre équipement sont accéssibles depuis **l'onglet Commandes**
 Elles sont classées par type ; infos ou actions
@@ -42,6 +42,6 @@ Elles sont classées par type ; infos ou actions
 
 **historiser** : permet d’historiser la donnée de la commande "Info" selectionnée
 
-configuration avancée (petites roues crantées) : permet d’afficher la configuration avancée de la commande (méthode d’historisation, widget…​)
+**configuration avancée** (petites roues crantées) : permet d’afficher la configuration avancée de la commande (méthode d’historisation, widget…​)
 **Evaluer**: retourne la valeur de la commande "Info" selectionnée
 **Tester** : permet de tester la commande "Action" selectionnée
