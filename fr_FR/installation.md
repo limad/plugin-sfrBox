@@ -5,7 +5,6 @@
 
 2. Une fois le plugin installé, il vous faut renseigner vos informations de connexion Migo :
 
-migoScreen2
 email : l'adresse mail de votre compte Migo
 
 Mot de passe : mot de passe de votre compte Migo
@@ -17,4 +16,4 @@ __Cliquer sur Synchroniser __: Celà permet de synchroniser Jeedom avec votre co
 !! A faire après avoir sauvegardé les paramètres précedent.
 
   
-![install3](https://github.com/NextDom/plugin-AlternativeMarketForJeedom/raw/master/docs/images/HowToInstall3.png)
+![install3](https://raw.githubusercontent.com/limad/plugin-test/master/images/migoThermostat_screenshot11.PNG)
