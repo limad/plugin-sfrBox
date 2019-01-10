@@ -1,4 +1,4 @@
-# WIDGET
+# Widget
 
 ## Voici le **widget standard** pour un thermostat :
 
