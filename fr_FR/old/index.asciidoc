@@ -1,9 +1,0 @@
-= Migo Control
-
-Plugin permettant de controller les thermostats Migo
-
-include::configuration.asciidoc[]
-
-== FAQ
-include::faq.asciidoc[]
-
