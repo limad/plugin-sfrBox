@@ -18,10 +18,10 @@ exclude:
 plugins:
 - jekyll-seo-tag
 title: "Documentation Jeedom-Plugins-Extra"
-description: "Ceci est la documentation du plugin de la team Jeedom-Plugins-Extra"
-author: "Jeedom-Plugins-Extra"
+description: "Ceci est la documentation du plugin sfrBox pour Jeedom"
+author: "Limad44"
 image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
 social:
-  name: Jeedom-Plugins-Extra
+  name: Jeedom-plugin sfrBox
   links:
-    - https://github.com/Jeedom-Plugins-Extra
+    - https://github.com/limad/plugin-sfrBox
