@@ -3,7 +3,7 @@
 ## **Configuration des équipements**
 
 
-La configuration des équipements Migo est accessible à partir du menu plugin :
+La configuration des équipements sfrBox est accessible à partir du menu plugin :
 
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot1.PNG)
 
@@ -15,7 +15,7 @@ Une fois que vous cliquez sur un équipement vous obtenez :
 
 Vous retrouvez ici toute la configuration de votre équipement :
 
-**Nom de l’équipement Migo** : nom de votre équipement Migo
+**Nom de l’équipement** : nom de votre équipement 
 
 **Objet parent** : indique l’objet parent auquel appartient l’équipement
 
