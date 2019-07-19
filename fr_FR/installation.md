@@ -16,5 +16,5 @@ Mot de passe : Mot de passe de la boxé
 !! A faire après avoir sauvegardé les paramètres précedent.
 
   
-2. Penser à choisir un cron( 5 ou 15min) et sauvegarder
+2. Penser à choisir un cron( 5 ou 1min) et sauvegarder
 ![install3](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot3.PNG)
