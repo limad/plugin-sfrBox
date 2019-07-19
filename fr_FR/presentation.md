@@ -1,6 +1,7 @@
 # Présentation
 
-**Plugin sfrBox For Jeedom** Plugin permettant de monitorer la box ainsi que les équipements qui y sont connéctés:
+**Plugin sfrBox For Jeedom** 
+Plugin permettant lemonitoring de la box sfr ainsi que les équipements qui y sont connéctés:
 
 - Compatible NB4/NB5/NB6 testé sur ligne ADSL.
 
@@ -8,7 +9,7 @@
 
 Ce plugin vous donnera la possibilité de *(1):
 
-- Le redémarrer de la box.
+- Redémarrer la box.
 - Activer/désactiver le wifi
 
 - Monitoring des appels(reçus, manqués,..)
@@ -35,7 +36,7 @@ Ce plugin vous donnera la possibilité de *(1):
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/sfrBox_screenshot1.PNG)
 
 ### Installation d'un plugin
-![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/sfrBox_screenshot8.PNG)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot8.PNG)
 
 ### Configuration
-![screenshot1](https://raw.githubusercontent.com/limad/plugin-test/master/images/sfrBox_screenshot13.PNG)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot13.PNG)
