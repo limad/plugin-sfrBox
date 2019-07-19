@@ -39,4 +39,4 @@ Ce plugin vous donnera la possibilité de *(1):
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot8.PNG)
 
 ### Configuration
-![screenshot1](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot13.PNG)
+![screenshot1](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot6.PNG)
