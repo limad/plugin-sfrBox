@@ -27,8 +27,6 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 **Type** : type de votre équipement
 
-![configuration3](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot5.PNG)
-
 
 
 
@@ -39,6 +37,7 @@ Elles sont classées par type ; infos ou actions
 
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot5.PNG)
 
+![configuration3](https://raw.githubusercontent.com/limad/plugin-sfrBox/master/images/sfrBox_screenshot5.PNG)
 
 
 **historiser** : permet d’historiser la donnée de la commande "Info" selectionnée
