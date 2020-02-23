@@ -6,6 +6,14 @@ description: Monitoring des équipement connéctés à aux boxs sfr compatibles.
 ## Changelog
 >*Liste non-exhaustive. Les changements mineurs et/ou correction de bugs ne figurent pas forcément ici.*
 
+### 23/02/2020
+Importante mise à jour
+* révision optimisations de la class sfrBoxApi
+* correction de bugs divers (création équipement unique, durée de connexion,...)
+* disponibilité d'informations manquantes pour la NB8(état wifi, Voip, ...)
+* remplacement de la commande timer par timerstr
+* ...
+
 ### 15/11/2019
 * correction de bugs divers (Online/Offline, multiplication de l'équipement lors d'un changement d'adresse ip,...)
 * optimisations diverses (php...)
